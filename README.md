@@ -6,7 +6,8 @@
 sklearn已经包含随机森林、GBDT
 
 LightGBM 安装 
-```python
+```
+python
 pip install lightgbm
 ```
 
