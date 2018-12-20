@@ -5,10 +5,11 @@
 ### 相关库安装
 sklearn已经包含随机森林、GBDT
 
-LightGBM 安装 
+###LightGBM 安装 
 ```
-python
 pip install lightgbm
 ```
+###XGBoost安装
+通过Wheel安装xgboost(不需要本地编译)[https://www.lfd.uci.edu/~gohlke/pythonlibs/#xgboost]
 
 
